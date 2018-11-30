@@ -1,0 +1,23 @@
+/*
+ * Utility
+ *
+ *  Created on: Dec 12, 2016
+ *      Author: mark
+ */
+
+
+#ifndef UTILITY_
+#define UTILITY_
+
+// Messages' name.
+
+#define slotBeepName "SLOT BEEP"
+#define collisionDetectionBeepName "COLLISION DETECTION BEEP"
+#define clearBeepName "CLEAR BEEP"
+#define packetName "PACKET"
+
+
+
+
+#endif /* UTILITY_ */
+

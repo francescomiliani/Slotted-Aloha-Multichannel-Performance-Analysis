@@ -1,0 +1,3 @@
+package srawn;
+
+@license(LGPL);
